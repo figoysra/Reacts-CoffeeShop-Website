@@ -1,0 +1,8 @@
+.rubik {
+    font-family: rubik;
+    font-size: 14px;
+}
+.list li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
